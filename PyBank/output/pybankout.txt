@@ -1,10 +1,17 @@
+
+
 Financial Analysis for the 41 month period ending Feb-16
 ---------------------------------------------------------------------------
-File analyzed = a.csv
+File analyzed =a.csv
 ---------------------------------------------------------------------------
+
+
 Total Months in Period : 41
-"Average Revenue Change :  $-6758.98"
-"Minimum Revenue Decrease : Aug-14= $-1,779,747"
-"Maximum Revenue Increase :Feb-16= $1,837,235"
-"Total Revenue : $18,971,412"
-"Aggrevchange : $-270,359"
+Total Revenue : $18,971,412
+Average Revenue Change :  $-6758.98
+Minimum Revenue Decrease : Aug-14= $-1,779,747
+Maximum Revenue Increase :Feb-16= $1,837,235
+Average Revenue Change :  $-6758.98
+
+
+
